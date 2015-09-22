@@ -22,3 +22,5 @@ public class Week3_Lab6
 	}
 
 }
+
+// Good job.  Thanks.
